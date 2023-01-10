@@ -3,7 +3,7 @@ import turtle
 wn = turtle.Screen()
 wn.setup(width=1000, height=800)
 
-
+#nambah keterangan untuk percobaan mpkl
 def my_goto(x, y):
     penup()
     goto(x, y)
